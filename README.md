@@ -19,3 +19,5 @@ You can install the required libraries using pip:
 
 ```bash
 pip install requests colorama
+
+![image](https://github.com/user-attachments/assets/5105c4d6-34d6-477d-b084-5b2763abe184)
