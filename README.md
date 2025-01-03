@@ -8,7 +8,6 @@ A simple and efficient email validation tool that checks the existence of email 
 - **Multithreading**: Utilizes Python's `concurrent.futures` to check multiple emails at once, significantly reducing the time required for validation.
 - **Colorful Console Output**: Provides clear feedback on the validity of each email with color-coded messages.
 - **Summary Report**: At the end of the execution, it summarizes the total number of valid and invalid emails.
-- **GitHub Link**: Displays a link to the author's GitHub profile for easy access.
 
 ## Requirements
 
